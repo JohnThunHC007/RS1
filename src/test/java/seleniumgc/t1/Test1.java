@@ -44,7 +44,7 @@ public class Test1 {
 		   }
 		   }catch(Exception e) {
 	    		
-	    		System.out.println("No Connection -Fail:");	
+	    		System.out.println("Fail:");	
 	    	}
 		 }
     
